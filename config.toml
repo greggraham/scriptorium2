@@ -1,0 +1,34 @@
+baseURL = "http://scriptorium2.com/"
+languageCode = "en-us"
+title = "Scriptorium 2"
+theme = "bootstrap4-blog"
+themesDir = "themes/"
+
+paginate = 5
+enableRobotsTXT = true
+
+[permalinks]
+  post = "/:year/:month/:title/"
+  page = "/:slug/"
+
+[[menu.sidebar]]
+  name = "Home Page"
+  url = "http://www.grahamtx.net"
+
+[[menu.sidebar]]
+  name = "First Scriptorium blog"
+  url = "http://greggraham.blogspot.com"
+
+[[menu.sidebar]]
+  name = "Facebook"
+  url = "https://www.facebook.com/greg.graham"
+
+
+[params]
+  author = "Gregory Graham"
+  favicon = ""
+  description = "Writings of Gregory Graham"
+  date_format = "Mon Jan 02, 2006"
+
+[params.social]
+  twitter = "greg_graham"
