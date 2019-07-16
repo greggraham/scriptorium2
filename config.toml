@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Scriptorium 2"
 theme = "mainroad"
 themesDir = "themes/"
+disqusShortname = ""
 paginate = 10
 enableRobotsTXT = true
 
