@@ -1,27 +1,19 @@
 baseURL = "http://scriptorium2.com/"
 languageCode = "en-us"
 title = "Scriptorium 2"
-theme = "bootstrap4-blog"
+theme = "mainroad"
 themesDir = "themes/"
-
-paginate = 5
+disqusShortname = "greggraham"
+paginate = 10
 enableRobotsTXT = true
+
+[Author]
+  name = "Gregory Graham"
+  bio = "Computer Science and Theology teacher"
 
 [permalinks]
   post = "/:year/:month/:title/"
   page = "/:slug/"
-
-[[menu.sidebar]]
-  name = "Home Page"
-  url = "http://www.grahamtx.net"
-
-[[menu.sidebar]]
-  name = "First Scriptorium blog"
-  url = "http://greggraham.blogspot.com"
-
-[[menu.sidebar]]
-  name = "Facebook"
-  url = "https://www.facebook.com/greg.graham"
 
 
 [params]
@@ -30,5 +22,20 @@ enableRobotsTXT = true
   description = "Writings of Gregory Graham"
   date_format = "Mon Jan 02, 2006"
 
-[params.social]
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "greg.graham"
   twitter = "greg_graham"
+  github = "greggraham"
+  email = "greg@grahamtx.net"
