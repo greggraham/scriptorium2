@@ -4,7 +4,7 @@ date: 2019-07-18T11:46:46-05:00
 draft: false
 ---
 
-I have written about [seeking truth](https://scriptorium2/posts/2019/07/seeking-truth.html), so lets talk about how to seek the truth about the most fundamental question, which is about God.
+I have written about [seeking truth](https://www.scriptorium2.com/posts/2019/07/seeking-truth.html), so lets talk about how to seek the truth about the most fundamental question, which is about God.
 
 One way we can know about God is by looking at creation. If the universe was created by God, then it should tell us something about him. We can tell something about an artist or author by looking at their work, so if God is an artist, he should be reflected in his work. The Bible supports this idea that we can know about God through creation. 
 
