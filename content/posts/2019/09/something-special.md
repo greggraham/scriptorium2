@@ -3,7 +3,7 @@ title: "Something Special"
 date: 2019-09-08T18:45:32-05:00
 draft: false
 ---
-M6@!BFw4GBmr5h
+
 [Natural Revelation](https://www.scriptorium2.com/posts/2019/07/the-truth-about-god-through-nature/) is very important because it can be the beginning of a journey to God for some people as well as a confirmation for those who already have faith in God, but it doesn't tell us all of what we need to know about him. In fact, it tells us that God must be so different from us that it would be impossible for us to begin to understand or know much about him on our own. God is farther above us than we are above bacteria, so it is impossible for us to begin to find God without divine help.
 
 God does not leave us to our own devices. Instead, he comes down to our level and speaks to us in a way that we can understand. This is what we call *special revelation*. Here is a classic passage on the subject, the introduction to the Letter to the Hebrews.
