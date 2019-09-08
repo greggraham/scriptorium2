@@ -36,6 +36,5 @@ enableRobotsTXT = true
 [Params.widgets.social]
   # Enable parts of social widget
   facebook = "greg.graham"
-  twitter = "greg_graham"
   github = "greggraham"
   email = "greg@grahamtx.net"
