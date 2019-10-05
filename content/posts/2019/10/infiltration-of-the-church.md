@@ -1,6 +1,6 @@
 ---
 title: "Has the Catholic Church Been Infiltrated?"
-date: 2019-09-15T16:34:25-05:00
+date: 2019-10-05T16:34:25-05:00
 draft: false
 ---
 
