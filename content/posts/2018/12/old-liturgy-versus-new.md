@@ -18,7 +18,7 @@ Lately, I've been exploring the liturgy that was used in the Catholic Church in 
 
 > Behold, all things are fulfilled * which were spoken by the Angel concerning the Virgin Mary.
 
-Now here are the antiphons for the new Morning Prayer (from [iBreviary](http://www.ibreviary.org)).
+Now here are the antiphons for the new Morning Prayer (from [iBreviary](https://www.ibreviary.org)).
 
 > Sound the trumpet in Zion; the day of the Lord is near; he comes to save us, alleluia.
 

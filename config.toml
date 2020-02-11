@@ -1,4 +1,4 @@
-baseURL = "http://scriptorium2.com/"
+baseURL = "https://scriptorium2.com/"
 languageCode = "en-us"
 title = "Scriptorium 2"
 theme = "mainroad"
