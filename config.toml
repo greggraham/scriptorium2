@@ -1,7 +1,7 @@
 baseURL = "https://scriptorium2.com/"
 languageCode = "en-us"
 title = "Scriptorium 2"
-theme = "mainroad"
+theme = "ezhil"
 themesDir = "themes/"
 disqusShortname = ""
 paginate = 10
